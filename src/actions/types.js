@@ -1,0 +1,11 @@
+export const LOGIN_SUCCESS = "LOGIN_SUCCESS";
+export const LOGIN_FAILD = "LOGIN_FAILD";
+export const LOADING = "LOADING";
+export const REFRESHING = "REFRESHING";
+export const MENU_STATUS = "MENU_STATUS";
+export const ERRORS = "ERRORS";
+export const GET_CONFIG = "GET_CONFIG";
+export const GET_AUDIOS = "GET_AUDIOS";
+export const DELETE_AUDIOS = "DELETE_AUDIOS";
+export const GET_LISTENINGS = "GET_LISTENINGS";
+export const UPLOAD_SUCCESS = "UPLOAD_SUCCESS";
